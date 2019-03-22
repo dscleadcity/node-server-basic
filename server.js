@@ -6,4 +6,4 @@ app.use('/', function(req, res) {
   res.send('<h1>Hello server!</h1>')
 })
 
-app.listen(3000)
+app.listen(7000)
