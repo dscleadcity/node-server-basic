@@ -3,6 +3,7 @@
 on your local machine, type in:
 
 ``` bash
+npm install
 npm start
 ```
 
